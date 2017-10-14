@@ -15,6 +15,6 @@ first.update_data('so broke')
 
 print(chain.broken)  # True
 
-chain.repair()
+#chain.repair()
 
 print(chain.broken)  # False
